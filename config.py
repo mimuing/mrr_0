@@ -1,0 +1,5 @@
+DATA_PATH = 'data/images'
+MODEL_SAVE_PATH = 'model.pth'
+BATCH_SIZE = 32
+LEARNING_RATE = 0.001
+EPOCHS = 10
